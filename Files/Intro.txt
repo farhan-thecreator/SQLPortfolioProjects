@@ -1,0 +1,1 @@
+After watching Homebound (2025), I worked on Covid cases that took place around 2020-2021. This SQL Project explores covid data.
